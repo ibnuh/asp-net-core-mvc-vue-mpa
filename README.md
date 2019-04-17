@@ -1,6 +1,6 @@
 #  ASP.NET Core MVC + Vue Multi Page Application
 
-![enter image description here](https://lh3.googleusercontent.com/gjq_nmo7smL0CtbaD-3KRPA7Vq55Phz9kVR9CkybFytt49bOXBpsiIh4Do3iLrjOt8ejxob_5j7u "ASP.NET Core MVC + Vue Multi Page Application")
+![enter image description here](https://lh3.googleusercontent.com/OKokSenvcragSIh5kHCvchKagrR24mIXrnawGAdzmGThVOQUfvG0CXQ8jnGBsrfqX9c1w6QmPMsS9guewA2-kHJ4jNU9xObu7Jr_xg17ZDm7NxQHQbJ_GsBgBmdDe78tFfRRdYrAAA=w1069-h407-no "ASP.NET Core MVC + Vue Multi Page Application")
 
 Highly scalable, quick scaffolding, customizable and easy to setup starting point for ASP.NET Core MVC using Razor Page and Vue.
 
